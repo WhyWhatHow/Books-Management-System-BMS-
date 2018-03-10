@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516099076 source:/mnt/hgfs/share_file/图书管理系统项目组（邢鹏飞、李艳欣、刘旗、朱春云）/B1_Code/code/main.cpp
+	"Btree.h"
+	<time.h>
+	<conio.h>
+	<windows.h>
+
